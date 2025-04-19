@@ -1,0 +1,32 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #7eb78e;
+    color: #000000;
+    text-align: left;
+}
+
+header, main, footer {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    color: #0073e6;
+}
+
+canvas {
+    border: 8px solid #0073e6;
+    background-color: #51ee26;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    display: block;
+}
+
+footer {
+    text-align: center;
+    font-size: 0.8em;
+    color: #666;
+}
